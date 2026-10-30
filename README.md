@@ -8,6 +8,7 @@
 
 ![C#](https://img.shields.io/badge/-C%23-555?style=flat-square&logo=c%23)
 
+
 [🐛 Report Bug](https://github.com/TMDARKVG/corestaff-employe-management/issues) · [✨ Request Feature](https://github.com/TMDARKVG/corestaff-employe-management/issues)
 
 </div>
@@ -27,13 +28,7 @@
 ```bash
 git clone https://github.com/TMDARKVG/corestaff-employe-management.git
 cd corestaff-employe-management
-npm install
-```
-
-## 💻 Usage
-
-```bash
-npm start
+run sln 
 ```
 
 ## ✨ Features
