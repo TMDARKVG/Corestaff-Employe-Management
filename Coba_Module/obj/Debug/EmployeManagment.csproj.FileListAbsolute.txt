@@ -1,0 +1,39 @@
+C:\Users\RVDARK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\bin\Debug\Coba_Module.exe.config
+C:\Users\RVDARK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\bin\Debug\Coba_Module.exe
+C:\Users\RVDARK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\bin\Debug\Coba_Module.pdb
+C:\Users\RVDARK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\bin\Debug\EntityFramework.dll
+C:\Users\RVDARK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RVDARK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\bin\Debug\EntityFramework.xml
+C:\Users\RVDARK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RVDARK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\EmployeManagment.csproj.AssemblyReference.cache
+C:\Users\RVDARK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\EmployeManagment.csproj.SuggestedBindingRedirects.cache
+C:\Users\RVDARK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\Coba_Module.FrmLogin.resources
+C:\Users\RVDARK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\Coba_Module.FrmMain.resources
+C:\Users\RVDARK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\Coba_Module.FrmMutation.resources
+C:\Users\RVDARK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\Coba_Module.FrmProfile.resources
+C:\Users\RVDARK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\Coba_Module.FrmPromotion.resources
+C:\Users\RVDARK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\Coba_Module.Properties.Resources.resources
+C:\Users\RVDARK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\EmployeManagment.csproj.GenerateResource.cache
+C:\Users\RVDARK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\EmployeManagment.csproj.CoreCompileInputs.cache
+C:\Users\RVDARK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\EmployeManagment.csproj.CopyComplete
+C:\Users\RVDARK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\Coba_Module.exe
+C:\Users\RVDARK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\Coba_Module.pdb
+G:\MY WORK NO BACK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\bin\Debug\Coba_Module.exe.config
+G:\MY WORK NO BACK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\bin\Debug\Coba_Module.exe
+G:\MY WORK NO BACK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\bin\Debug\Coba_Module.pdb
+G:\MY WORK NO BACK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\bin\Debug\EntityFramework.dll
+G:\MY WORK NO BACK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\bin\Debug\EntityFramework.SqlServer.dll
+G:\MY WORK NO BACK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\bin\Debug\EntityFramework.xml
+G:\MY WORK NO BACK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\bin\Debug\EntityFramework.SqlServer.xml
+G:\MY WORK NO BACK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\EmployeManagment.csproj.AssemblyReference.cache
+G:\MY WORK NO BACK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\Coba_Module.FrmLogin.resources
+G:\MY WORK NO BACK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\Coba_Module.FrmMain.resources
+G:\MY WORK NO BACK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\Coba_Module.FrmMutation.resources
+G:\MY WORK NO BACK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\Coba_Module.FrmProfile.resources
+G:\MY WORK NO BACK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\Coba_Module.FrmPromotion.resources
+G:\MY WORK NO BACK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\Coba_Module.Properties.Resources.resources
+G:\MY WORK NO BACK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\EmployeManagment.csproj.GenerateResource.cache
+G:\MY WORK NO BACK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\EmployeManagment.csproj.CoreCompileInputs.cache
+G:\MY WORK NO BACK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\EmployeM.5AA5017B.Up2Date
+G:\MY WORK NO BACK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\Coba_Module.exe
+G:\MY WORK NO BACK\source\repos\C SRAHP C#\EmployeManagment\Coba_Module\obj\Debug\Coba_Module.pdb

@@ -1,0 +1,40 @@
+C:\Users\RVDARK\source\repos\Coba_Module\Coba_Module\obj\Debug\Coba_Module.csproj.AssemblyReference.cache
+C:\Users\RVDARK\source\repos\Coba_Module\Coba_Module\obj\Debug\Coba_Module.csproj.SuggestedBindingRedirects.cache
+C:\Users\RVDARK\source\repos\Coba_Module\Coba_Module\obj\Debug\Coba_Module.FrmMain.resources
+C:\Users\RVDARK\source\repos\Coba_Module\Coba_Module\obj\Debug\Coba_Module.FrmMutation.resources
+C:\Users\RVDARK\source\repos\Coba_Module\Coba_Module\obj\Debug\Coba_Module.FrmProfile.resources
+C:\Users\RVDARK\source\repos\Coba_Module\Coba_Module\obj\Debug\Coba_Module.FrmPromotion.resources
+C:\Users\RVDARK\source\repos\Coba_Module\Coba_Module\obj\Debug\Coba_Module.Properties.Resources.resources
+C:\Users\RVDARK\source\repos\Coba_Module\Coba_Module\obj\Debug\Coba_Module.csproj.GenerateResource.cache
+C:\Users\RVDARK\source\repos\Coba_Module\Coba_Module\obj\Debug\Coba_Module.csproj.CoreCompileInputs.cache
+C:\Users\RVDARK\source\repos\Coba_Module\Coba_Module\bin\Debug\Coba_Module.exe.config
+C:\Users\RVDARK\source\repos\Coba_Module\Coba_Module\bin\Debug\Coba_Module.exe
+C:\Users\RVDARK\source\repos\Coba_Module\Coba_Module\bin\Debug\Coba_Module.pdb
+C:\Users\RVDARK\source\repos\Coba_Module\Coba_Module\bin\Debug\EntityFramework.dll
+C:\Users\RVDARK\source\repos\Coba_Module\Coba_Module\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RVDARK\source\repos\Coba_Module\Coba_Module\bin\Debug\EntityFramework.xml
+C:\Users\RVDARK\source\repos\Coba_Module\Coba_Module\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RVDARK\source\repos\Coba_Module\Coba_Module\obj\Debug\Coba_Module.csproj.CopyComplete
+C:\Users\RVDARK\source\repos\Coba_Module\Coba_Module\obj\Debug\Coba_Module.exe
+C:\Users\RVDARK\source\repos\Coba_Module\Coba_Module\obj\Debug\Coba_Module.pdb
+C:\Users\RVDARK\source\repos\Coba_Module\Coba_Module\obj\Debug\Coba_Module.FrmLogin.resources
+C:\Users\RVDARK\source\repos\C SRAHP C#\Coba_Module\Coba_Module\bin\Debug\Coba_Module.exe.config
+C:\Users\RVDARK\source\repos\C SRAHP C#\Coba_Module\Coba_Module\bin\Debug\Coba_Module.exe
+C:\Users\RVDARK\source\repos\C SRAHP C#\Coba_Module\Coba_Module\bin\Debug\Coba_Module.pdb
+C:\Users\RVDARK\source\repos\C SRAHP C#\Coba_Module\Coba_Module\bin\Debug\EntityFramework.dll
+C:\Users\RVDARK\source\repos\C SRAHP C#\Coba_Module\Coba_Module\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RVDARK\source\repos\C SRAHP C#\Coba_Module\Coba_Module\bin\Debug\EntityFramework.xml
+C:\Users\RVDARK\source\repos\C SRAHP C#\Coba_Module\Coba_Module\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RVDARK\source\repos\C SRAHP C#\Coba_Module\Coba_Module\obj\Debug\Coba_Module.csproj.AssemblyReference.cache
+C:\Users\RVDARK\source\repos\C SRAHP C#\Coba_Module\Coba_Module\obj\Debug\Coba_Module.csproj.SuggestedBindingRedirects.cache
+C:\Users\RVDARK\source\repos\C SRAHP C#\Coba_Module\Coba_Module\obj\Debug\Coba_Module.FrmLogin.resources
+C:\Users\RVDARK\source\repos\C SRAHP C#\Coba_Module\Coba_Module\obj\Debug\Coba_Module.FrmMain.resources
+C:\Users\RVDARK\source\repos\C SRAHP C#\Coba_Module\Coba_Module\obj\Debug\Coba_Module.FrmMutation.resources
+C:\Users\RVDARK\source\repos\C SRAHP C#\Coba_Module\Coba_Module\obj\Debug\Coba_Module.FrmProfile.resources
+C:\Users\RVDARK\source\repos\C SRAHP C#\Coba_Module\Coba_Module\obj\Debug\Coba_Module.FrmPromotion.resources
+C:\Users\RVDARK\source\repos\C SRAHP C#\Coba_Module\Coba_Module\obj\Debug\Coba_Module.Properties.Resources.resources
+C:\Users\RVDARK\source\repos\C SRAHP C#\Coba_Module\Coba_Module\obj\Debug\Coba_Module.csproj.GenerateResource.cache
+C:\Users\RVDARK\source\repos\C SRAHP C#\Coba_Module\Coba_Module\obj\Debug\Coba_Module.csproj.CoreCompileInputs.cache
+C:\Users\RVDARK\source\repos\C SRAHP C#\Coba_Module\Coba_Module\obj\Debug\Coba_Module.csproj.CopyComplete
+C:\Users\RVDARK\source\repos\C SRAHP C#\Coba_Module\Coba_Module\obj\Debug\Coba_Module.exe
+C:\Users\RVDARK\source\repos\C SRAHP C#\Coba_Module\Coba_Module\obj\Debug\Coba_Module.pdb
